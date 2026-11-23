@@ -1,0 +1,8 @@
+{
+  "version": "1.2.4",
+  "versionCode": 8,
+  "apk": "apk/BookmarkExtractor-1.2.4.apk",
+  "size": 4135005,
+  "sha256": "9e0ebc560506495cd3de7033a401f3a56fc3ff0253396caeb5bd1ebb83f896b5",
+  "notes": "New name and logo. Long-press to select several bookmarks. Auto update. X posts saved on phone and in Chrome count as one bookmark."
+}
